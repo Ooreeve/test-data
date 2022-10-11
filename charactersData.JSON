@@ -1,4 +1,104 @@
 [
-    { "id": 0, "name": "Dipper Pines", "fullName": "Mason Pines" },
-    { "id": 1, "name": "Mabel Pines", "fullName": "Mabel Pines" }
+    {
+        "id": 0,
+        "name": "Dipper Pines",
+        "fullName": "Mason Pines",
+        "age": 12,
+        "occupation": "Student",
+        "likes": ["Solving mysteries"],
+        "dislikes": ["Being underestimated"],
+        "powers and abilities": [
+            "Mystery and puzzle solving",
+            "Monster hunting",
+            "Playing the sousaphone",
+            "Dancing"
+        ],
+        "fate": "Went back home to Piedmont, California, with Mabel"
+    },
+    {
+        "id": 1,
+        "name": "Mabel Pines",
+        "fullName": "Mabel Pines",
+        "age": 12,
+        "occupation": "Mystery Shack employee",
+        "likes": ["Sweaters"],
+        "dislikes": ["Family or friends in danger or trouble"],
+        "powers and abilities": ["Knitting"],
+        "fate": "Returned back home to Piedmont, California"
+    },
+    {
+        "id": 2,
+        "name": "Stan Pines",
+        "fullName": "Stanley Pines",
+        "age": 60,
+        "occupation": "Owner of Mystery Shack",
+        "likes": ["His family", "Waddles", "Money"],
+        "dislikes": ["Gideon Gleeful", "Bud Gleeful", "Waddles", "Pioneer Day"],
+        "powers and abilities": [
+            "High intelligence",
+            "Charisma",
+            "Boxing skill"
+        ],
+        "fate": "Went travelling near the Arctic ocean with Ford"
+    },
+    {
+        "id": 3,
+        "name": "Stanford Filbrick Pines",
+        "fullName": "Stanford Filbrick Pines",
+        "age": 60,
+        "occupation": "Scientist",
+        "likes": [
+            "Dungeons, Dungeons, and More Dungeons",
+            "Jelly beans (especially deformed ones)"
+        ],
+        "dislikes": ["Being followed", "Being manipulated", "Toffee Peanuts"],
+        "powers and abilities": ["Extreme Intelligence"],
+        "fate": "Went traveling near the Arctic Ocean with Stanley"
+    },
+    {
+        "id": 4,
+        "name": "Wendy Corduroy",
+        "fullName": "Wendy Blerble Corduroy",
+        "age": 15,
+        "occupation": "High school student",
+        "likes": [
+            "Hanging out",
+            "Rule-breaking",
+            "Reading magazines",
+            "Snacks",
+            "Flannel"
+        ],
+        "dislikes": [
+            "Working",
+            "Guys fighting",
+            "Robbie lying to her",
+            "Straight Blanchin'",
+            "Unicorns",
+            "High school"
+        ],
+        "powers and abilities": [
+            "Tree climbing",
+            "Survival skills",
+            "Hand-to-hand combat",
+            "Making origami with an axe"
+        ],
+        "fate": "Says goodbye to Dipper and Mabel before switching hats with Dipper"
+    },
+    {
+        "id": 5,
+        "name": "Soos Ramirez",
+        "fullName": "Jesús Alzamirano Ramirez",
+        "age": 21,
+        "occupation": "Employee at the Mystery Shack",
+        "likes": ["Hanging out with Dipper and Mabel"],
+        "dislikes": [
+            "Fish food",
+            "His Father",
+            "His Birthday",
+            "British dog man",
+            "Bats"
+        ],
+        "powers and abilities": ["Working with tools", "DJing", "Driving"],
+        "fate": "Receive Stan's position as the Mystery Shack's owner"
+    }
 ]
