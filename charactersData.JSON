@@ -13,7 +13,8 @@
             "Playing the sousaphone",
             "Dancing"
         ],
-        "fate": "Went back home to Piedmont, California, with Mabel"
+        "fate": "Went back home to Piedmont, California, with Mabel",
+        "img": "https://static.wikia.nocookie.net/gravityfalls/images/c/cb/S1e16_dipper_will_take_room.png/revision/latest/scale-to-width-down/1000?cb=20160119145706"
     },
     {
         "id": 1,
@@ -24,7 +25,8 @@
         "likes": ["Sweaters"],
         "dislikes": ["Family or friends in danger or trouble"],
         "powers and abilities": ["Knitting"],
-        "fate": "Returned back home to Piedmont, California"
+        "fate": "Returned back home to Piedmont, California",
+        "img": "https://static.wikia.nocookie.net/gravityfalls/images/b/b2/S1e3_mabel_new_wax_figure.png/revision/latest/scale-to-width-down/1000?cb=20160204031402"
     },
     {
         "id": 2,
@@ -39,11 +41,12 @@
             "Charisma",
             "Boxing skill"
         ],
-        "fate": "Went travelling near the Arctic ocean with Ford"
+        "fate": "Went travelling near the Arctic ocean with Ford",
+        "img": "https://static.wikia.nocookie.net/gravityfalls/images/9/92/S1e16_something_about_you.png/revision/latest/scale-to-width-down/1000?cb=20130530141339"
     },
     {
         "id": 3,
-        "name": "Stanford Filbrick Pines",
+        "name": "Ford Pines",
         "fullName": "Stanford Filbrick Pines",
         "age": 60,
         "occupation": "Scientist",
@@ -53,7 +56,8 @@
         ],
         "dislikes": ["Being followed", "Being manipulated", "Toffee Peanuts"],
         "powers and abilities": ["Extreme Intelligence"],
-        "fate": "Went traveling near the Arctic Ocean with Stanley"
+        "fate": "Went traveling near the Arctic Ocean with Stanley",
+        "img": "https://static.wikia.nocookie.net/gravityfalls/images/b/b7/S2e13_ha_ha_ha_dipper.jpg/revision/latest/scale-to-width-down/1000?cb=20150805055839"
     },
     {
         "id": 4,
@@ -82,7 +86,8 @@
             "Hand-to-hand combat",
             "Making origami with an axe"
         ],
-        "fate": "Says goodbye to Dipper and Mabel before switching hats with Dipper"
+        "fate": "Says goodbye to Dipper and Mabel before switching hats with Dipper",
+        "img": "https://static.wikia.nocookie.net/gravityfalls/images/3/35/S1e5_wendy_leaning_on_atm.png/revision/latest/scale-to-width-down/1000?cb=20130603020244"
     },
     {
         "id": 5,
@@ -99,6 +104,7 @@
             "Bats"
         ],
         "powers and abilities": ["Working with tools", "DJing", "Driving"],
-        "fate": "Receive Stan's position as the Mystery Shack's owner"
+        "fate": "Receive Stan's position as the Mystery Shack's owner",
+        "img": "https://static.wikia.nocookie.net/gravityfalls/images/b/bb/S1e13_whole_busload_of_em.png/revision/latest/scale-to-width-down/1000?cb=20151221063833"
     }
 ]
