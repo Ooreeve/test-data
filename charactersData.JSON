@@ -7,7 +7,7 @@
         "occupation": "Student",
         "likes": ["Solving mysteries"],
         "dislikes": ["Being underestimated"],
-        "powers and abilities": [
+        "powersAndAbilities": [
             "Mystery and puzzle solving",
             "Monster hunting",
             "Playing the sousaphone",
@@ -24,7 +24,7 @@
         "occupation": "Mystery Shack employee",
         "likes": ["Sweaters"],
         "dislikes": ["Family or friends in danger or trouble"],
-        "powers and abilities": ["Knitting"],
+        "powersAndAbilities": ["Knitting"],
         "fate": "Returned back home to Piedmont, California",
         "img": "https://static.wikia.nocookie.net/gravityfalls/images/b/b2/S1e3_mabel_new_wax_figure.png/revision/latest/scale-to-width-down/1000?cb=20160204031402"
     },
@@ -36,11 +36,7 @@
         "occupation": "Owner of Mystery Shack",
         "likes": ["His family", "Waddles", "Money"],
         "dislikes": ["Gideon Gleeful", "Bud Gleeful", "Waddles", "Pioneer Day"],
-        "powers and abilities": [
-            "High intelligence",
-            "Charisma",
-            "Boxing skill"
-        ],
+        "powersAndAbilities": ["High intelligence", "Charisma", "Boxing skill"],
         "fate": "Went travelling near the Arctic ocean with Ford",
         "img": "https://static.wikia.nocookie.net/gravityfalls/images/9/92/S1e16_something_about_you.png/revision/latest/scale-to-width-down/1000?cb=20130530141339"
     },
@@ -55,7 +51,7 @@
             "Jelly beans (especially deformed ones)"
         ],
         "dislikes": ["Being followed", "Being manipulated", "Toffee Peanuts"],
-        "powers and abilities": ["Extreme Intelligence"],
+        "powersAndAbilities": ["Extreme Intelligence"],
         "fate": "Went traveling near the Arctic Ocean with Stanley",
         "img": "https://static.wikia.nocookie.net/gravityfalls/images/b/b7/S2e13_ha_ha_ha_dipper.jpg/revision/latest/scale-to-width-down/1000?cb=20150805055839"
     },
@@ -80,7 +76,7 @@
             "Unicorns",
             "High school"
         ],
-        "powers and abilities": [
+        "powersAndAbilities": [
             "Tree climbing",
             "Survival skills",
             "Hand-to-hand combat",
@@ -103,7 +99,7 @@
             "British dog man",
             "Bats"
         ],
-        "powers and abilities": ["Working with tools", "DJing", "Driving"],
+        "powersAndAbilities": ["Working with tools", "DJing", "Driving"],
         "fate": "Receive Stan's position as the Mystery Shack's owner",
         "img": "https://static.wikia.nocookie.net/gravityfalls/images/b/bb/S1e13_whole_busload_of_em.png/revision/latest/scale-to-width-down/1000?cb=20151221063833"
     }
