@@ -1,0 +1,38 @@
+{
+  "first_name": "Kevin",
+  "last_name": "Xie",
+  "gender": "male",
+  "birth": 1993-01-11,
+  "country": "Taiwan",
+  "email": "oorkin18@gmail.com",
+  "edu": [
+    {
+      "start_time": 2011-09,
+      "end_time": 2015-06,
+      "school": "Chaoyang University of Technology",
+      "major": "Computer Science"
+    },
+    {
+      "start_time": 2008-09,
+      "end_time": 2011-06,
+      "school": "New Taipei Municipal Tamsui Commercial Industrial Vocational Senior High School",
+      "major": "Industrial Design"
+    }
+  ],
+  "experience": [
+    {
+      "start_time": 2014-07,
+      "end_time": 2015-07,
+      "company": "DECOBALI",
+      "position": "Industrial Designer"
+    },
+    {
+      "start_time": 2018-11,
+      "end_time": 2019-05,
+      "company": "TAI CHUNG CANVAS CO., LTD.",
+      "position": "Industrial Designer"
+    },
+  ]
+  
+  
+}
